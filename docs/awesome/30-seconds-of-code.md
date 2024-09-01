@@ -1,5 +1,3 @@
-<div class="github-widget" data-repo="30-seconds/30-seconds-of-code"></div>
-[![Logo](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//logo.png)](https://30secondsofcode.org/js/p/1)
 
 ## 30 seconds of code
 
