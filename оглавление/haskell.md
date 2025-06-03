@@ -1,0 +1,16 @@
+# Оглавление
+
+- [haskell-for-awesome-code](https://github.com/kiki-ki/haskell-for-awesome-code)
+- [Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors)
+- [awesome-haskell](https://github.com/awesomeguides/awesome-haskell)
+- [awesome-haskell-cn](https://github.com/running-grass/awesome-haskell-cn)
+- [awesome-haskell-do](https://github.com/NickSeagull/awesome-haskell-do)
+- [awesome-haskell-lint](https://github.com/Profpatsch/awesome-haskell-lint)
+- [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship)
+- [awesome-haskell-tutorial-modules](https://github.com/sjakobi/awesome-haskell-tutorial-modules)
+- [AwesomeHaskellApp](https://github.com/ariedov/AwesomeHaskellApp)
+- [awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml)
+- [awesome-haskell-deep-learning](https://github.com/austinvhuang/awesome-haskell-deep-learning)
+- [awesome-haskell-videos](https://github.com/andys8/awesome-haskell-videos)
+- [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
+- [awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus)
